@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador de software full-stack con más de 8 años de experiencia en administracion. Sólida base en JavaScript, HTML y CSS, combinada con conocimientos en administración de sistemas. Licenciado en Ingeniería de Sistemas, con capacidad para traducir requisitos de negocio en soluciones técnicas escalables. Busco aplicar mi experiencia en proyectos desafiantes que me permitan seguir creciendo profesionalmente.
+Desarrollador de software full-stack con experiencia en administracion. Sólida base en JavaScript, HTML, CSS, Python y SQL. Licenciado en Ingeniería de Sistemas, con capacidad para traducir requisitos de negocio en soluciones técnicas escalables. Busco aplicar mi experiencia en proyectos desafiantes que me permitan seguir creciendo profesionalmente.
 
 
 
